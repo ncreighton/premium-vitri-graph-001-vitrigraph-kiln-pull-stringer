@@ -1,0 +1,2 @@
+# premium-vitri-graph-001-vitrigraph-kiln-pull-stringer
+Tired of pulling the perfect stringer only to forget the exact color batch and kiln speed that made it happen? Your Vitrigraph Kiln Pull Stringer Color and Speed Log turns every pull into a repeatable recipe.  This Notion template eliminates guesswork by capturing every critical variable—color ID, pull speed, kiln temperature, and batch notes—so yo
